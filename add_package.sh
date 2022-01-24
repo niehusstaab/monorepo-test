@@ -19,6 +19,6 @@ mkdir $TARGET
 # TODO: should be honeyscience owner, not me
 git remote add -f $TARGET https://github.com/niehusstaab/$TARGET.git
 git merge -s ours --no-commit --allow-unrelated-histories $TARGET/main
-git read-tree -P $TARGET -u $TARGET/main
+git read-tree --prefix=$TARGET -u $TARGET/main
 git commit -m "added new package"
 #git push
