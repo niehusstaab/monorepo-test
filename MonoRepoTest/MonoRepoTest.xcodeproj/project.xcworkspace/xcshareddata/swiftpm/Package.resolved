@@ -1,0 +1,25 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Dummy1",
+        "repositoryURL": "https://github.com/niehusstaab/dummy-spm-1/",
+        "state": {
+          "branch": "main",
+          "revision": "f6f44d47fbdef29ff33aff5b47de44c0e7854fd2",
+          "version": null
+        }
+      },
+      {
+        "package": "Dummy2",
+        "repositoryURL": "https://github.com/niehusstaab/dummy-spm-2/",
+        "state": {
+          "branch": "main",
+          "revision": "1b3ef493b10320b681ba8cdbef6c844279004c33",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
