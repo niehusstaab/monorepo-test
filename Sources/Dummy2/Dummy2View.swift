@@ -1,6 +1,6 @@
 import UIKit
 
-class Dummy2View: UIView {
+public class Dummy2View: UIView {
   public override init(frame: CGRect) {
     super.init(frame: frame)
     setup()
