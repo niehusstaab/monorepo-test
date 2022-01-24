@@ -12,7 +12,7 @@ public class Dummy1View: UIView {
   
   func setup() {
     let label = UILabel()
-    label.text = "Dummy1 modified extra"
+    label.text = "Dummy1 modified extra again"
     label.translatesAutoresizingMaskIntoConstraints = false
     
     self.addSubview(label)
