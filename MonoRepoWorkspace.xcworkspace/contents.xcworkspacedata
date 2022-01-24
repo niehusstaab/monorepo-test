@@ -2,6 +2,9 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:dummy-spm-2">
+   </FileRef>
+   <FileRef
       location = "group:dummy-spm-1">
    </FileRef>
    <FileRef
