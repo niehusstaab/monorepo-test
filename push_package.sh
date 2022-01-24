@@ -12,5 +12,5 @@ then
   exit 1
 fi
 
-# this seems to overwrite downstream history...
+# this will overwrite all downstream history on first push, but that's ok
 git push $TARGET `git subtree split -P $TARGET main`:main --force
