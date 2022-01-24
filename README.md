@@ -1,2 +1,3 @@
-# dummy-spm-1
-a dummy SPM project to incorporate into monorepo via subtrees
+# Dummy1
+
+A description of this package.
